@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1431714418 source:c:\users\emil\desktop\fmi\нно\hw3\zad3\main.cpp
+	<iostream>
+	"Vector.h"
+	"BoolVector.h"
+
+1431714492 source:c:\users\emil\desktop\fmi\нно\hw3\zad3\src\vector.cpp
+	"Vector.h"
+
+1431715087 c:\users\emil\desktop\fmi\нно\hw3\zad3\include\vector.h
+	<iostream>
+
+1430906093 source:c:\users\emil\desktop\fmi\нно\hw3\zad3\src\boolvector.cpp
+	"BoolVector.h"
+
+1430904152 c:\users\emil\desktop\fmi\нно\hw3\zad3\include\boolvector.h
+	<iostream>
+
