@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1428519635 source:c:\users\emil\desktop\fmi\oop\practice\test\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+
+1428520581 source:c:\users\emil\desktop\fmi\oop\hw1\test\zad1.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+
+1428520581 source:c:\users\emil\desktop\fmi\нно\hw1\carsandowners\zad1.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+
