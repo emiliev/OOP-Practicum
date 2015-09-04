@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1433968822 source:c:\users\emil\desktop\fmi\нно\hw4\main.cpp
+	<iostream>
+	"Worker.h"
+	"Specialist.h"
+	"Director.h"
+	"Secretary.h"
+	"TeamLeader.h"
+
+1433749398 c:\users\emil\desktop\fmi\нно\hw4\include\worker.h
+	<string.h>
+	<iostream>
+
+1433963297 source:c:\users\emil\desktop\fmi\нно\hw4\src\worker.cpp
+	"Worker.h"
+
+1433749897 c:\users\emil\desktop\fmi\нно\hw4\include\specialist.h
+	"Worker.h"
+	<iostream>
+
+1433961480 source:c:\users\emil\desktop\fmi\нно\hw4\src\specialist.cpp
+	"Specialist.h"
+
+1433966081 source:c:\users\emil\desktop\fmi\нно\hw4\src\teamleader.cpp
+	"TeamLeader.h"
+
+1433966067 c:\users\emil\desktop\fmi\нно\hw4\include\teamleader.h
+	"Specialist.h"
+
+1433704176 source:c:\users\emil\desktop\fmi\нно\hw4\src\secretary.cpp
+	"Secretary.h"
+
+1433748170 c:\users\emil\desktop\fmi\нно\hw4\include\secretary.h
+	"Worker.h"
+
+1433968624 source:c:\users\emil\desktop\fmi\нно\hw4\src\director.cpp
+	"Director.h"
+
+1433960216 c:\users\emil\desktop\fmi\нно\hw4\include\director.h
+	<iostream>
+	"Secretary.h"
+	"Worker.h"
+

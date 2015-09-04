@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1430074236 source:c:\users\emil\desktop\fmi\oop\hw2\jarandcookies\main.cpp
+	<iostream>
+	"Cookie.h"
+	"Jar.h"
+
+1430071801 c:\users\emil\desktop\fmi\oop\hw2\jarandcookies\include\cookie.h
+	<string.h>
+	<iostream>
+
+1430087017 source:c:\users\emil\desktop\fmi\oop\hw2\jarandcookies\src\cookie.cpp
+	"Cookie.h"
+
+1430071852 source:c:\users\emil\desktop\fmi\oop\hw2\jarandcookies\src\jar.cpp
+	"Jar.h"
+
+1430071942 c:\users\emil\desktop\fmi\oop\hw2\jarandcookies\include\jar.h
+	"Cookie.h"
+
+1430168827 source:c:\users\emil\desktop\fmi\нно\hw2\jarandcookies\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	"Cookie.h"
+	"Jar.h"
+
+1430163308 c:\users\emil\desktop\fmi\нно\hw2\jarandcookies\include\cookie.h
+	<string.h>
+	<iostream>
+
+1430165040 c:\users\emil\desktop\fmi\нно\hw2\jarandcookies\include\jar.h
+	"Cookie.h"
+
+1430163676 source:c:\users\emil\desktop\fmi\нно\hw2\jarandcookies\src\cookie.cpp
+	"Cookie.h"
+
+1430167507 source:c:\users\emil\desktop\fmi\нно\hw2\jarandcookies\src\jar.cpp
+	"Jar.h"
+

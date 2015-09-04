@@ -1,0 +1,89 @@
+# depslib dependency file v1.0
+1434369553 source:c:\users\emil\desktop\fmi\нно\hw5\main.cpp
+	<iostream>
+	"Circle.h"
+	"Triangle.h"
+	"Rectangle.h"
+	"Group.h"
+	<fstream>
+	<string.h>
+
+1433938691 source:c:\users\emil\desktop\fmi\нно\hw5\src\circle.cpp
+	"Circle.h"
+
+1433922242 c:\users\emil\desktop\fmi\нно\hw5\include\circle.h
+	"Shape.h"
+
+1433922232 c:\users\emil\desktop\fmi\нно\hw5\include\shape.h
+	<cmath>
+	<iostream>
+
+1433922232 source:c:\users\emil\desktop\fmi\нно\hw5\src\rectangle.cpp
+	"Rectangle.h"
+
+1433922242 c:\users\emil\desktop\fmi\нно\hw5\include\rectangle.h
+	"Shape.h"
+
+1433874939 source:c:\users\emil\desktop\fmi\нно\hw5\src\shape.cpp
+	"Shape.h"
+
+1433942995 source:c:\users\emil\desktop\fmi\нно\hw5\src\triangle.cpp
+	"Triangle.h"
+	<iostream>
+
+1433943042 c:\users\emil\desktop\fmi\нно\hw5\include\triangle.h
+	"Shape.h"
+
+1433938599 source:c:\users\emil\desktop\fmi\нно\hw5\src\group.cpp
+	"Group.h"
+
+1434369553 c:\users\emil\desktop\fmi\нно\hw5\include\group.h
+	"Circle.h"
+	"Rectangle.h"
+	"Triangle.h"
+	"Shape.h"
+
+1439809375 source:c:\users\emo\desktop\fmi\нно\hw5\main.cpp
+	<iostream>
+	"Circle.h"
+	"Triangle.h"
+	"Rectangle.h"
+	"Group.h"
+	<fstream>
+	<string.h>
+
+1433922242 c:\users\emo\desktop\fmi\нно\hw5\include\circle.h
+	"Shape.h"
+
+1433922232 c:\users\emo\desktop\fmi\нно\hw5\include\shape.h
+	<cmath>
+	<iostream>
+
+1433943042 c:\users\emo\desktop\fmi\нно\hw5\include\triangle.h
+	"Shape.h"
+
+1433922242 c:\users\emo\desktop\fmi\нно\hw5\include\rectangle.h
+	"Shape.h"
+
+1434369553 c:\users\emo\desktop\fmi\нно\hw5\include\group.h
+	"Circle.h"
+	"Rectangle.h"
+	"Triangle.h"
+	"Shape.h"
+
+1433938691 source:c:\users\emo\desktop\fmi\нно\hw5\src\circle.cpp
+	"Circle.h"
+
+1434370287 source:c:\users\emo\desktop\fmi\нно\hw5\src\group.cpp
+	"Group.h"
+
+1433922232 source:c:\users\emo\desktop\fmi\нно\hw5\src\rectangle.cpp
+	"Rectangle.h"
+
+1433874939 source:c:\users\emo\desktop\fmi\нно\hw5\src\shape.cpp
+	"Shape.h"
+
+1433942995 source:c:\users\emo\desktop\fmi\нно\hw5\src\triangle.cpp
+	"Triangle.h"
+	<iostream>
+
